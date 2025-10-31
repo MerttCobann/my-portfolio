@@ -12,9 +12,11 @@ Major: Computer Science
 
 \## Skills
 
-\- Programming: Basic
+\- Programming: C++, JavaScript
 
-\- Git: Learning
+\- Git: Advanced
+
+\- Database: SQL
 
 
 
@@ -29,6 +31,4 @@ Major: Computer Science
 \## Contact
 
 Email: merttcobann@gmail.com
-
-
 
