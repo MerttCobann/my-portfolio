@@ -1,8 +1,8 @@
-\# My Portfolio
+# My Portfolio
 
 
 
-\## About Me
+## About Me
 
 Name: Mert Coban
 
@@ -10,25 +10,22 @@ Major: Computer Science
 
 
 
-\## Skills
-
-\- Programming: C++, JavaScript
-
-\- Git: Advanced
-
-\- Database: SQL
+## Skills
+- Programming: Python, Java, C++, JavaScript
+- Git: Advanced
+- Web Development: HTML, CSS
+- Database: SQL
 
 
+## Projects
 
-\## Projects
+- Project 1: TBD
 
-\- Project 1: TBD
-
-\- Project 2: TBD
+- Project 2: TBD
 
 
 
-\## Contact
+## Contact
 
 Email: merttcobann@gmail.com
 
